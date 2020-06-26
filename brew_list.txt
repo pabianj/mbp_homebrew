@@ -19,6 +19,7 @@ json-lint
 jupyter
 kubectx
 lsof
+mackup
 macvim
 mussh
 mysql
