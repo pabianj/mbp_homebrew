@@ -8,7 +8,7 @@ beginning with `homebrew`. I'll try to keep this up to date.
 I do a simple `for` loop.
 
 ```
-for i in `cat brew_lists.txt` ; do
+for i in `cat brew_list.txt` ; do
 echo $i
 brew install $i
 done

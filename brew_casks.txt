@@ -1,1 +1,3 @@
 brew tap wallix/awless; brew install awless
+
+brew tap liamg/tfsec; brew install pre-commit gawk terraform-docs tflint tfsec coreutils
