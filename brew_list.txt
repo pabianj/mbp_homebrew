@@ -1,3 +1,4 @@
+awscli
 aws-keychain
 aws-shell
 awsume
