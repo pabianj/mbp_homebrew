@@ -37,6 +37,7 @@ terraform-docs
 terraform-landscape
 terraformer
 terraforming
+tflint
 tree
 vault
 yamllint
